@@ -20,7 +20,7 @@ pip install torch tqdm
 tiny_ai/
 │
 ├── data/
-│   └── corpus.txt       # The raw text data used for training (currently Shakespeare)
+│   └── corpus.txt       # The raw text data used for training (currently "https://huggingface.co/datasets/athirababu0988/human_chat.txt/resolve/main/human_chat.txt")
 │
 ├── src/
 │   ├── tokenizer.py     # Converts characters to integers and vice versa
